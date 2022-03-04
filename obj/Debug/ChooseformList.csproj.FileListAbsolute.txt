@@ -1,0 +1,6 @@
+c:\users\pbssdev03\documents\visual studio 2015\Projects\ChooseList\ChooseformList\bin\Debug\ChooseformList.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\ChooseList\ChooseformList\bin\Debug\ChooseformList.pdb
+c:\users\pbssdev03\documents\visual studio 2015\Projects\ChooseList\ChooseformList\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\pbssdev03\documents\visual studio 2015\Projects\ChooseList\ChooseformList\obj\Debug\ChooseformList.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\ChooseList\ChooseformList\obj\Debug\ChooseformList.pdb
+C:\Users\pbssdev03\Documents\Visual Studio 2015\Projects\ChooseList\ChooseformList\obj\Debug\ChooseformList.csprojResolveAssemblyReference.cache
